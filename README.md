@@ -19,7 +19,7 @@ The data for this project is sourced from the Kaggle dataset:
 
 ## Schema
 
-'''sql
+```sql
 create table netflix 
 (
 	show_id	VARCHAR2(5),
@@ -35,4 +35,4 @@ create table netflix
 	listed_in	VARCHAR2(250),
 	description VARCHAR2(550)
 );
-'''
+```
