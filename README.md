@@ -18,4 +18,21 @@ The data for this project is sourced from the Kaggle dataset:
 - **Dataset Link:** [Movies Dataset](https://www.kaggle.com/datasets/padmapriyatr/netflix-titles?resource=download)
 
 ## Schema
+
 '''sql
+create table netflix 
+(
+	show_id	VARCHAR2(5),
+	type    VARCHAR2(10),
+	title	VARCHAR2(250),
+	director VARCHAR2(550),
+	casts	VARCHAR2(1050),
+	country	VARCHAR2(550),
+	date_added	VARCHAR2(55),
+	release_year	NUMBER,
+	rating	VARCHAR2(15),
+	duration	VARCHAR2(15),
+	listed_in	VARCHAR2(250),
+	description VARCHAR2(550)
+);
+'''
