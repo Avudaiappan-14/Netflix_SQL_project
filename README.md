@@ -212,4 +212,13 @@ WHERE casts LIKE '%Salman Khan%';
 ```
 **Objective:** Retrieved all movies in which actor ‘Salman Khan’ appeared.
 
+## Key Findings:
+
+- Netflix has more Movies than TV Shows.
+
+- Most content added in recent years comes from the US and India.
+
+- 'TV-MA' is the most common rating.
+
+- Identified longest movies, top directors, and yearly trends.
 
