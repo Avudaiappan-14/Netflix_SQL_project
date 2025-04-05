@@ -1,5 +1,5 @@
---NETFLIX SCHEMA
-
+-- NETFLIX SCHEMA
+```sql
 create table netflix 
 (
 	show_id	VARCHAR2(5),
@@ -17,3 +17,4 @@ create table netflix
 );
 
 SELECT * FROM Netflix;
+```
