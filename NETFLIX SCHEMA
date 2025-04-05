@@ -1,5 +1,6 @@
 -- NETFLIX SCHEMA
 
+
 ```sql
 create table netflix 
 (
@@ -16,7 +17,4 @@ create table netflix
 	listed_in	VARCHAR2(250),
 	description VARCHAR2(550)
 );
-```
-```sql
-SELECT * FROM Netflix;
 ```
