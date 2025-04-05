@@ -36,3 +36,10 @@ create table netflix
 	description VARCHAR2(550)
 );
 ```
+## NETFLIX SQL PROBLEMS AND SOLUTIONS:
+
+### 1. Count the Number of Movies vs TV Shows
+```sql
+
+```
+
