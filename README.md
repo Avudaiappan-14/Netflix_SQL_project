@@ -7,9 +7,10 @@
 This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
 
 ## Objectives
--- Explored and analyzed Netflix data using Oracle SQL by solving 15 real-world business questions. 
+
+-- Analyzed Netflix data with Oracle SQL by solving 15 practical business questions.
+-- Explored and analyzed Netflix data using Oracle SQL by solving 15 real-world business questions.
 -- Focused on content trends, actors, countries, and release patterns. 
--- Gained hands-on experience with SQL queries, aggregations, filtering, and window functions.
 
 ## Dataset
 The data for this project is sourced from the Kaggle dataset:
