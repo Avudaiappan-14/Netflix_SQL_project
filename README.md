@@ -39,7 +39,13 @@ create table netflix
 ## NETFLIX SQL PROBLEMS AND SOLUTIONS:
 
 ### 1. Count the Number of Movies vs TV Shows
-```sql
 
+```sql
+SELECT 
+    type,
+    COUNT(*)
+FROM netflix
+GROUP BY TYPE;
 ```
+**Objective:** Counted the total number of Movies and TV Shows available on Netflix. 
 
